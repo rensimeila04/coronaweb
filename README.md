@@ -25,3 +25,31 @@ data username atau password akan disimpan di database.
 Jika pengguna sudah memiliki akun maka akan bisa langsung login ke website, namun, bagaimana jika belum memiliki?
 di web ini terdapat halaman register untuk mendaftarkan pengguna yang nantinya akan disimpan di database
 
+# ==--Home--==
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/f.PNG)
+Pada home kita dapat langsung mengecek kondisi kita dengan memencet cek sekarang 
+setelah itu akan terdapat beberapa soal
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/g.PNG)
+di setiap soal ketika kita menjawab "ya" makan akan langsung muncul kesimpulan. dan ketika menjawab "tidak" akan 
+lanjut ke soal soal berikutnya.
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/h.PNG)
+pada halaman kesimpulan beresiko terdapat tombol cek kembali dan lihat data pasien
+ketika memencet cek kmbali akan menuju halaman home dan ketika memencet tombol lihat data pasien akan muncul data data pasien.
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/i.PNG)
+ketika user menjawab tidak sampai akhir maka akan terdapat kesimpulan bahwa user tidak beresiko terkena virus.
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/j.PNG)
+
+# =--Cara Pencegahan--==
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/k.PNG)
+Pada halaman cara pencegahan terdapat informasi tentang cara pencegahan virus corona.
+
+# =-- Gejala --==++
+![Alt Text](https://github.com/rensimeila04/coronaweb/blob/master/coronaweb/a.PNG)
+Pada halaman gejala terdapat informasi tentang gejala virus corona.
+
+# +++++++++++++----------- TERIMAKASIH -----------+++++++++++++
+
+
+
+
+
